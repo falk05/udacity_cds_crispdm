@@ -4,7 +4,7 @@ Author: Erik Sokolovsky <br>
 Date: September 2022 <br>
 Public Github repo: https://github.com/falk05/udacity_cds_crispdm.git <br>
 
-**Project Motivation:**
+**Project Motivation:** <br>
 We analyse data gathered from charging stations for electric vehicles installed in a multi-space private parking garage. The intention is to see what insights can be gained from the charging behaviour of the different EV owners.  We attempt to answer the following questions: What can we infer from the charging patterns observed to date? What cost savings could EV owners achieve without changing their vehicle usage pattern? And, can we forecast hourly energy demand from historical charging data and meteorological data?  The blog post published for this project is available on Medium:  
 
 
