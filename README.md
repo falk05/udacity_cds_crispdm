@@ -18,6 +18,7 @@ We analyse data gathered from charging stations for electric vehicles installed 
 personally identifiable data <br>
 `response_anon.json` - the anonymized data from the Zaptec API call to chargehistory  <br>
 `ugz_ogd_meteo_h1_2021.csv` and `ugz_ogd_meteo_h1_2022.csv` - open source meteorological data <br>
+`.gitignore` - to ignore Jupyter Notebook execution directory
 
 
 **Libraries used:** <br>
