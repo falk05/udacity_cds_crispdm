@@ -7,7 +7,6 @@ Public Github repo: https://github.com/falk05/udacity_cds_crispdm.git <br>
 **Project Motivation:** <br>
 We analyse data gathered from charging stations for electric vehicles installed in a multi-space private parking garage. The intention is to see what insights can be gained from the charging behaviour of the different EV owners.  We attempt to answer the following questions: What can we infer from the charging patterns observed to date? What cost savings could EV owners achieve without changing their vehicle usage pattern? And, can we forecast hourly energy demand from historical charging data and meteorological data?  The blog post published for this project is available on Medium:  
 
-
 **Results of the analysis:** <br>
 1. The charging pattern shows that most of the charging kicks off at about 4pm and much of the overnight charging takes place before 3am.  The different charging patterns exposed by different EV owners will have different long-term effects on battery longevity.
 2. EV owners can lower the energy costs for charging their EV by shifting the charging from high-tariff periods to low-tariff periods, without having to change the way they use their vehicle.
