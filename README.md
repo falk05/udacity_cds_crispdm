@@ -1,6 +1,6 @@
 # Udacity Citizen Data Scientist Nanodegree #
 
-Author: Erik Sokolovsky 
+Author: Erik Sokolovsky <br>
 Date: September 2022 
 Public Github repo: https://github.com/falk05/udacity_cds_crispdm.git
 
