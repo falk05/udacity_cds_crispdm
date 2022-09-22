@@ -13,6 +13,13 @@ We analyse data gathered from charging stations for electric vehicles installed 
 2. EV owners can lower the energy costs for charging their EV by shifting the charging from high-tariff periods to low-tariff periods, without having to change the way they use their vehicle.
 3. Energy demand from the EV chargers can be predicted quite well using a non-linear regression model.
 
+**Description of files contained in the repo:** <br>
+`zaptec.ipynb` - the main Jupyter notebook that contains all the gathering, cleaning, analysis, visualization and model building <br>
+`anon_response.ipynb` - the Jupyter Notebook that anonymizes the raw data retrieved from Zaptec by removing 
+personally identifiable data <br>
+`response_anon.json` - the anonymized data from the Zaptec API call to chargehistory  <br>
+`ugz_ogd_meteo_h1_2021.csv` and `ugz_ogd_meteo_h1_2022.csv` - open source meteorological data <br>
+
 
 **Libraries used:** <br>
 **Base libaries used:** <br>
@@ -36,15 +43,6 @@ GradientBoostingRegressor <br>
 cross_validate <br>
 MinMaxScaler <br>
 FunctionTransformer <br>
-
-
-**Description of files contained in the repo:** <br>
-`zaptec.ipynb` - the main Jupyter notebook that contains all the gathering, cleaning, analysis, visualization and model building <br>
-`anon_response.ipynb` - the Jupyter Notebook that anonymizes the raw data retrieved from Zaptec by removing 
-personally identifiable data <br>
-`response_anon.json` - the anonymized data from the Zaptec API call to chargehistory  <br>
-`ugz_ogd_meteo_h1_2021.csv` and `ugz_ogd_meteo_h1_2022.csv` - open source meteorological data <br>
-
 
 **Description of data sources** <br>
 
